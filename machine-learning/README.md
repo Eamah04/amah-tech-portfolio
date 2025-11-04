@@ -44,7 +44,7 @@ The projects emphasize **supervised learning, regression, neural networks, and m
 - Practiced **model evaluation and tuning**.  
 - Connected ML concepts to **healthcare and youth‑centered applications**.
 ## Contact 
-- - GitHub: [GitHub Profile](https://github.com/Eamah04)
+- GitHub: [GitHub Profile](https://github.com/Eamah04)
 - LinkedIn: [Emmanuel Amah](https://www.linkedin.com/in/emmanuel-amah-326892308/)
 - Email: okezieamah@gmail.com
 ---
@@ -57,4 +57,5 @@ The projects emphasize **supervised learning, regression, neural networks, and m
 
 ---
 ﻿# Machine Learning Projects
+
 
